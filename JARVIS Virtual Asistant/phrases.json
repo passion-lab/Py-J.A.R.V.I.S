@@ -1,0 +1,9 @@
+{
+  "wish": {
+    "hello": ["hello", "hi", "hi there"],
+    "morning": ["morning", "good morning", "have a good morning", "have a nice morning", "have a fresh morning"]
+  },
+  "response":{
+    "ok": ["ok", "sure", "have it", "here it is", "that's fine", "here it for you", "write"]
+  }
+}
